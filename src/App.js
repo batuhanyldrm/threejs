@@ -3,7 +3,7 @@ import Cylinder from './Clinder';
 
 const App = () => {
   return (
-    <div /* style={{ height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center' }} */>
+    <div style={{ height: '0vh', display: 'block', justifyContent: 'center', alignItems: 'center' }}>
       <Cylinder />
     </div>
   );
